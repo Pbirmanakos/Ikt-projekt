@@ -1,0 +1,105 @@
+
+@import url(https://fonts.googleapis.com/css2?);
+
+
+body{
+    font-size: x-large;
+    font-family: 'PT Sans Narrow', sans-serif;
+    background-image: url(majus1.png);
+    background-repeat: repeat-x;
+    background-color:bisque;
+    
+}
+.margin{
+    background-color: rgb(141, 153, 128);
+    opacity: 80%;
+    margin-top: 270px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+  padding-left: 200px;
+  padding-right: 200px;
+  margin-left: 100px;
+  margin-right: 100px;
+  
+
+
+}
+
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    margin-top: -200px;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    text-align: center;
+  }
+  
+  .nav li {
+    float: left;
+  }
+  
+ .nav  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .nav li a:hover {
+    background-color:wheat;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.unnep h1{
+    text-align: center;
+}
+
+
+.unnep img{
+    border: 5px black solid;
+    border-radius: 20px;
+}
+.sport img{
+    border: solid 5px black;
+}
+
+.fesztival{
+    float: left;
+}
+.fesztival img{
+    border: solid 5px black;
+}
+
+
+
+.majusfa{
+
+}
+.majusfa h1{
+    text-align: center;
+}
+.majusfa h2{
+    text-align: center;
+}
+.majusfa img{
+    border: solid 5px black;
+    border-radius: 50px;
+}
+.tanc{
+text-align: center;
+
+}
